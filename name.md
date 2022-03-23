@@ -1,1 +1,1 @@
-this is Abhishek ana I am check the Git cloning through this file
+this is Abhishek and I am checking the Git cloning through this file
